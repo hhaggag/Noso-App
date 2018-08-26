@@ -1,0 +1,33 @@
+body {
+    background-color: #463e3e;
+}
+
+.clicks {
+    background-color:#4c8fad;
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+    border-radius: 10px;
+    display: inline-block;
+    cursor: pointer;
+}
+.word {
+    padding-top:10%;
+    color:#ccc;
+    width: 50%;
+    display: inline-block;
+    font-size: 80px;
+    text-align:center;
+}
+.pic {
+    background-color: #CCC;
+    width: 45%;
+    height: 400px;
+    display: inline-block
+}
+.leb {
+
+    color:#eee ;
+    text-align: center;
+    font-size: 60px
+}
